@@ -1,0 +1,63 @@
+.voteButton{
+    justify-content: space-around;    
+    display: flex;
+    background-color: aliceblue;
+}
+
+
+.resultButton{
+    display: flex;
+    justify-content: space-around;
+}
+
+.loginOption{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+}
+
+.adminLogin{
+    display: flex;
+    justify-content: center;
+}
+
+.voterLogin{
+    display: flex;
+    justify-content: center;
+    
+}
+.credintials{
+    display: flex;
+}
+
+.submitButton{
+    display: flex;
+}
+
+.adminHeading{
+    display: flex;
+    justify-content: center;
+}
+
+.partyText{
+    display: flex;
+    justify-content: center;
+}
+.creatButton{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
+.resultButton{
+    display: flex;
+    justify-content: center;
+    margin-top: 26px;
+
+}
+.adminPage{
+    margin-top: 14%;
+}
+.snackbar{
+    
+}

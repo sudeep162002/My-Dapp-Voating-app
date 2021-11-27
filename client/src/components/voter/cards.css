@@ -1,0 +1,16 @@
+.cards{
+    display: flex;
+    justify-content: space-around;
+}
+
+img, svg {
+    vertical-align: middle;
+    width: 250px;
+}
+
+.voteButton{
+    color: #ece5e5;
+    border-radius: 78px;
+    background-color: #19684d;
+
+}
