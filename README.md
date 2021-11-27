@@ -1,1 +1,2 @@
-# dapp-starter-kit
+# dapp
+
